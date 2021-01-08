@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "nom": "Fellini",
+    "prenom": "Federico ",
+    "dateBorn": "1920-01-20",
+    "dateDeath": "1993-10-31",
+    "image": "https://fr.wikipedia.org/wiki/Federico_Fellini#/media/Fichier:Federico_Fellini_NYWTS_2.jpg",
+    "nationalite": "Italie",
+    "biographie": [
+      {
+        "id": "1",
+        "titre": "Debuts",
+        "annee": "1940-1950",
+        "texte": "Issu de la petite bourgeoisie italienne, Federico Fellini entame une carrière de journaliste. Puis il se lance rapidement dans l'écriture de scénarios. Il fait la connaissance d'une jeune actrice, Giulietta Masina, qu'il épouse en 1943. A la même époque, il fait deux autres rencontres déterminantes : celles de Roberto Rossellini puis d'Alberto Lattuada. Pour le premier, il co-écrit le scénario de Rome ville ouverte (1945) et pour le second celui de Sans pitié (id.). En 1948, il participe à l'écriture du film à sketches de Roberto Rossellini et Marcello Pagliero, Amore. Après ces débuts dans le drame néoréaliste, Fellini choisit le registre de la comédie pour sa première réalisation, Le Cheik blanc (1952)."
+      },      
+      {
+        "id": "2",
+        "titre": "Premiers-Succés",
+        "annee": "1950-1960",
+        "texte": "Il devient célèbre avec La Strada (1954), oeuvre originale qui s'inscrit dans la veine néoréaliste qu'affectionne Fellini dans les années 50. Dans Il Bidone (1955) et Les Nuits de Cabiria (1957), il dépeint des personnages usés par la vie en quête de rédemption et d'amour. Les mélodies de Nino Rota, compositeur attitré du réalisateur, accompagnent les protagonistes dans leur dérive."
+      },      
+      {
+        "id": "3",
+        "titre": "Tournant du cinéma",
+        "annee": "1960-1970",
+        "texte": "En 1960, Fellini fait scandale avec La Douceur de vivre. Marcello Mastroianni y interprète un journaliste désabusé en proie aux turpitudes de la société dans laquelle il vit. Le film remporte la Palme d'or au festival de Cannes et marque un tournant dans la carrière du réalisateur. Fellini exprime son amertume et ses angoisses. Il retrouve Mastroianni pour Huit et demi (1962), film fantasmagorique dans lequel il explore les affres de la création et du désir. Dans Satyricon (1969), il montre, au-delà de l'érotisme, la décadence et l'agonie d'un univers. Le monde de Fellini est marqué par la débauche et la démesure. Il est peuplé de femmes plantureuses et de personnages volubiles."
+      },
+      {
+        "id": "4",
+        "titre": "Retour en enfance",
+        "annee": "1974",
+        "texte" : "Les obsessions du maestro s'expliquent peut-être dans son interlude nostalgique, Amarcord (1974). Dans cette oeuvre empreinte de mélancolie et de lyrisme, Fellini dresse une galerie des personnages qui ont marqué son enfance."
+      },
+      {
+        "id": "5",
+        "titre": "Consécration",
+        "annee": "1975-1985",
+        "texte" : "Par la suite, il laisse à nouveau place au cynisme avec Casanova de Fellini (1976), dans lequel il démystifie le séducteur légendaire. La Cité des femmes (1979), explore l'univers féminin entre réalité et onirisme. Les deux films se répondent avec un certain pessimisme quant aux relations entre hommes et femmes. Fellini transfigure sa vision tragique de la vie et des relations humaines par les symboles, le merveilleux et la poésie."
+      },
+      {
+        "id": "6",
+        "titre": "Dernières oeuvres",
+        "annee": "1985-1990",
+        "texte" : "Ginger et Fred (1985) et Intervista (1987) dressent le portrait pathétique de stars inspirées de Fred Astaire et Ginger Rogers. Avec ces deux films, le cinéaste approfondit le thème du temps qui passe et de la décrépitude. Ginger et Fred lui permet aussi de brosser une satire de la télévision et du star system. Dans Intervista, il évoque l'âge d'or des légendaires studios Cinecittà, auquel il a largement contribué."
+      }
+
+
+
+    ],
+    "filmographie": [
+      {
+        "id": "1",
+        "titre": "La Strada",
+        "annee": "1954",
+        "duree": "1h48",
+        "fonction": "Réalisateur, Scénariste",
+        "affiche": "https://fr.web.img2.acsta.net/c_210_280/pictures/18/11/05/15/28/5162407.jpg",
+        "resume": "Gelsomina a été vendue par sa mère a Zampano, qui la brutalise et ne cesse de la tromper. Ils partent ensemble sur les routes, vivant misérablement du numéro de saltimbanque de Zampano. Surgit Il Matto (le fou), violoniste et poète, qui seul sait parler à Gelsomina.",
+        "note": 4.1
+      },
+      {
+        "id": "2",
+        "titre": "La Dolce Vita ",
+        "annee": "2019",
+        "duree": "2h54",
+        "fonction":"Réalisateur, Scénariste",
+        "affiche": "https://fr.web.img6.acsta.net/c_310_420/pictures/14/05/16/13/01/036315.jpg",
+        "resume" : "Marcello Rubini, a quitté sa province italienne pour Rome dans le but de devenir écrivain. Mais celui-ci est devenu chroniqueur dans un journal à sensations. Il fait donc la tournée des lieux dans lesquels il est susceptible de décrocher quelques scoops afin d’alimenter sa chronique.",
+        "note": 4
+      },
+      {
+        "id": "3",
+        "titre": "Les Nuits de Cabiria",
+        "annee": "1957",
+        "duree": "1h55",
+        "fonction":"Réalisateur, Scénariste, Auteur",
+        "affiche": "https://fr.web.img5.acsta.net/c_310_420/pictures/20/02/19/15/34/1507308.jpg",
+        "resume" : "Cabiria, une petite prostituée romaine, est une gentille fille, assez naïve malgré son dur métier. En dehors de ses clients, les hommes qu'elle rencontre font montre envers elle d'une grande cruauté. Avec une foi inébranlable, Cabiria ne désespère pas de voir tourner sa chance et persiste à chercher l'amour.",
+        "note" : 4.2
+      },
+      {
+        "id":"4",
+        "titre": "Amarcord",
+        "annee":"1974",
+        "duree":"2h07",
+        "fonction":"Réalisateur, Scénariste",
+        "affiche":"https://fr.web.img3.acsta.net/c_310_420/medias/nmedia/18/35/40/15/18388206.jpg",
+        "resume":"Dans un bourg italien près de la mer, à l'heure du fascisme triomphant, les enfants trainassent, cherchant des victimes pour leurs blagues innocentes. L'un d'eux va connaître, en l'espace d'une année, une série d'expériences tour à tour drôles, savoureuses et poignantes."
+      },
+      {
+        "id":"5",
+        "titre": "Huit Et Demi",
+        "annee":"1963",
+        "duree":"2h18",
+        "fonction":"Réalisateur, Scénariste",
+        "affiche":"https://fr.web.img3.acsta.net/c_310_420/medias/nmedia/18/64/34/18/18770968.jpg",
+        "resume":"Un cinéaste dépressif fuit le monde du cinéma et se réfugie dans un univers peuplé de fantasmes."
+      },
+      {
+        "id":"6",
+        "titre": "Les Vitelloni",
+        "annee":"1954",
+        "duree":"1h43",
+        "fonction":"Réalisateur, Scénariste, Auteur",
+        "affiche":"https://fr.web.img6.acsta.net/c_310_420/pictures/20/02/19/15/40/5629996.jpg",
+        "resume": "Dans une petite ville balnéaire animée seulement par le carnaval et la période des vacances, cinq jeunes gens mènent une vie de désoeuvrés, d'inutiles, qui leur vaut d'être appelés Vitteloni, les grands veaux"
+      },
+      {
+        "id":"7",
+        "titre": "Et vogue le navire",
+        "annee":"1984",
+        "duree":"2h08",
+        "fonction":"Réalisateur, Scénariste",
+        "affiche":"https://fr.web.img4.acsta.net/c_310_420/medias/nmedia/18/64/67/66/18835940.jpg",
+        "resume": "En 1914, le port de Naples est le théâtre d'événements peu banals. La haute société européenne, artistes et politiciens de renom, s'apprête, au cours d'une croisière, a disperser les cendres de leur diva adulée. Les premières manifestations de la guerre vont frapper de plein fouet les insouciants passagers..."
+      },
+      {
+        "id":"8",
+        "titre": "Casanova",
+        "annee":"1977",
+        "duree":"2h34",
+        "fonction":"Réalisateur, Scénariste, Costumier",
+        "affiche":"https://fr.web.img4.acsta.net/c_310_420/pictures/19/10/29/11/11/1257609.jpg",
+        "resume": "Au XVIIIème siècle, à Venise. Les rues, pontons et canaux sont animés par le traditionnel carnaval qui déploie les pompes d’une grande fête païenne. Giacomo Casanova, habillé en Pierrot, se rend à l’invitation que lui a fait parvenir une coquette et coquine religieuse. Leurs ébats érotiques sont observés par l’ambassadeur de France, De Bernis, amant de la nonne et voyeur complaisant. C’est le point de départ d’une série d’aventures galantes et sinistres racontées sans vergogne par le célèbre séducteur."
+      },
+      {
+        "id":"9",
+        "titre": "Fellini Roma",
+        "annee":"1972",
+        "duree":"2h08",
+        "fonction":"Acteur, Réalisateur, Scénariste,",
+        "affiche":"https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/18/65/19/90/18836021.jpg",
+        "resume": "La vie à Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale où réalité et fantasmes du réalisateur sont étroitement mêlés."
+      },
+      {
+        "id":"10",
+        "titre": "La Cite des femmes ",
+        "annee":"1980",
+        "duree":"2h20",
+        "fonction":"Réalisateur, Scénariste",
+        "affiche":"https://fr.web.img3.acsta.net/c_310_420/medias/nmedia/18/85/97/16/19815462.jpg",
+        "resume": "Marcello rencontre, dans le train, une inconnue qui se dérobe à ses avances. Il décide de la suivre jusqu'à son hôtel où se tiennent les assises d'un congrès féministe."
+      }
+    ]
+  }
+]
